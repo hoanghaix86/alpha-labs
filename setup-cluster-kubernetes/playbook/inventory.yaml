@@ -1,0 +1,9 @@
+all:
+  children:
+    masters:
+      hosts:
+        172.16.1.10: null
+    workers:
+      hosts:
+        172.16.1.11: null
+        172.16.1.12: null
